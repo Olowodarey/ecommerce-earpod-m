@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "price": "34.9",
+      "price2": "$34.9 or $10 monthly",
+      "descprice":"suggested payment withing month",
+  
+      "imageUrl": "earpod1.jpg",
+      "imageUrl1": "earpod1.jpg",
+      "imageUrl2": "earpod1.jpg",
+      "imageUrl3": "earpod1.jpg",
+      "rating": 5,
+      "desc": ["Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "Aenean commodo ligula eget dolor. Aenean massa.",
+      " Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "nascetur ridiculus mus. Donec quam felis,"
+  
+  
+    ]    
+    },
+   {
+      "id": 2,
+      "name": "AirPod max",
+      "price": "77",
+      "price2": "$77 or $15 monthly",
+      "descprice":"suggested payment withing month",
+  
+      "imageUrl": "pod2.jpg",
+      "imageUrl1": "pod2.jpg",
+      "imageUrl2": "pod2.jpg",
+      "imageUrl3": "pod2.jpg",
+      "rating": 3,
+      "desc": ["Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "Aenean commodo ligula eget dolor. Aenean massa.",
+      " Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "nascetur ridiculus mus. Donec quam felis,"
+  
+      
+    ]    
+    },
+    {
+      "id": 3,
+      "name": "Bose BT Earphones",
+      "price": "87",
+      "price2": "$87 or $17 monthly",
+      "descprice":"suggested payment withing month",
+  
+      "imageUrl": "pod3.jpg",
+      "imageUrl1": "pod3.jpg",
+      "imageUrl2": "pod3.jpg",
+      "imageUrl3": "pod3.jpg",
+      "rating": 4,
+      "desc": ["Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "Aenean commodo ligula eget dolor. Aenean massa.",
+      " Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "nascetur ridiculus mus. Donec quam felis,"
+  
+      
+    ]    
+    },
+    {
+      "id": 4,
+      "name": "JBL TUNE 600BTNC",
+      "price": "77.90",
+      "price2": "$77.90 or $10 monthly",
+      "descprice":"suggested payment withing month",
+  
+      "imageUrl": "pod4.jpg",
+      "imageUrl1": "pod4.jpg",
+      "imageUrl2": "pod4.jpg",
+      "imageUrl3": "pod4.jpg",
+      "rating": 1,
+      "desc": ["Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "Aenean commodo ligula eget dolor. Aenean massa.",
+      " Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "nascetur ridiculus mus. Donec quam felis,"
+  
+      
+    ]    
+    },
+    {
+      "id": 5,
+      "name": "Mpower CH6",
+      "price": "93.9",
+      "price2": "$93.9 or $10 monthly",
+      "descprice":"suggested payment withing month",
+  
+      "imageUrl": "pod5.jpg",
+      "imageUrl1": "pod5.jpg",
+      "imageUrl2": "pod5.jpg",
+      "imageUrl3": "pod5.jpgg",
+      "rating": 3,
+      "desc": ["Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "Aenean commodo ligula eget dolor. Aenean massa.",
+      " Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "nascetur ridiculus mus. Donec quam felis,"
+  
+      
+    ]    
+    },
+    {
+      "id": 6,
+      "name": "TAGRY Bluetooth",
+      "price": "50",
+      "price2": "$50 or $10 monthly",
+      "descprice":"suggested payment withing month",
+  
+      "imageUrl": "pod6.jpg",
+      "imageUrl1": "pod6.jpg",
+      "imageUrl2": "pod6.jpg",
+      "imageUrl3": "pod6.jpg",
+      "rating": 4,
+      "desc": ["Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "Aenean commodo ligula eget dolor. Aenean massa.",
+      " Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "nascetur ridiculus mus. Donec quam felis,"
+  
+      
+    ]    
+    },
+    {
+      "id": 7,
+      "name": "Oraimo Pod 4",
+      "price": "47",
+      "price2": "$47 or $10 monthly",
+      "descprice":"suggested payment withing month",
+  
+      "imageUrl": "pod7.jpg",
+      "imageUrl1": "pod7.jpg",
+      "imageUrl2": "pod7.jpg",
+      "imageUrl3": "pod7.jpg",
+      "rating": 5,
+      "desc": ["Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "Aenean commodo ligula eget dolor. Aenean massa.",
+      " Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "nascetur ridiculus mus. Donec quam felis,"
+  
+      
+    ]    
+    },
+    {
+      "id": 8,
+      "name": "Flower Laptop Sleeve",
+      "price": "99.1",
+      "price2": "$99.1 or $10 monthly",
+      "descprice":"suggested payment withing month",
+  
+      "imageUrl": "pod8.jpg",
+      "imageUrl1": "pod8.jpg",
+      "imageUrl2": "pod8.jpg",
+      "imageUrl3": "pod8.jpg",
+      "rating": 2,
+      "desc": ["Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "Aenean commodo ligula eget dolor. Aenean massa.",
+      " Cum sociis natoque penatibus et magnis dis parturient montes,",
+      "nascetur ridiculus mus. Donec quam felis,"
+  
+      
+    ]    
+    }
+  ]
+  
